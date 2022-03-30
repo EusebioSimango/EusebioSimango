@@ -43,5 +43,5 @@
    <!-- ![Snake animation](https://github.com/Eu23b10/Eu23b10/blob/output/github-contribution-grid-snake.svg) -->
   </div>
     <a href="https://www.codewars.com/users/EusebioSimango" target"_blank">
-    <img src="https://www.codewars.com/users/EusebioSimango/badges/small/"/>
+    <img src="https://www.codewars.com/users/EusebioSimango/badges/large/"/>
   </a>
