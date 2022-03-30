@@ -12,12 +12,11 @@
 <div><br>
   <img align="center" alt="Eusebio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="Eusebio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-   <img align="center" alt="Eusebio-JQuery" height="30" width="40" src"https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"/>
   <img align="center" alt="Eusebio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img align="center" alt="Eusebio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   <img align="center" alt="Eusebio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-  <img align="center" alt="Eusebio-Django" height="30" width="40" src"https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg"/>
-  <img alt="Eusebio-Linux"  src"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg"  height="30" width="40"/>
   
 </div>
   
