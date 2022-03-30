@@ -1,5 +1,4 @@
 ## 👋 Hi, I’m @Eusebio Simango
-####  I'm currently learning fo
 ##
 
 <div align="center">
