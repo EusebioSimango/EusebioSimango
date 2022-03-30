@@ -10,7 +10,7 @@
 
 ## Tech Stack
 
-<div><br>
+<div style="display: flex; gap: 10px; flex-wrap: wrap;"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  height="30" width="60" align="center" alt="Eusebio-NodeJs"/>
   <img align="center" alt="Eusebio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"  height="30" width="60" align="center" alt="Eusebio-jQuery"/>
