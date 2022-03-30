@@ -11,28 +11,28 @@
 ## Tech Stack
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;"><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  height="30" width="60" align="center" alt="Eusebio-NodeJs"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  height="30" width="40" align="center" alt="Eusebio-NodeJs"/>
   <img align="center" alt="Eusebio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"  height="30" width="60" align="center" alt="Eusebio-jQuery"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"  height="30" width="40" align="center" alt="Eusebio-jQuery"/>
   <img align="center" alt="Eusebio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
   <img align="center" alt="Eusebio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img align="center" alt="Eusebio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"  height="30" width="60" align="center" alt="Eusebio-Sass"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"  height="30" width="60" align="center" alt="Eusebio-Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"  height="30" width="40" align="center" alt="Eusebio-Sass"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"  height="30" width="40" align="center" alt="Eusebio-Bootstrap"/>
   <img align="center" alt="Eusebio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"  height="30" width="60" align="center" alt="Eusebio-Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  height="30" width="60" align="center" alt="Eusebio-Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  height="30" width="60" align="center" alt="Eusebio-Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  height="30" width="60" align="center" alt="Eusebio-Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  height="30" width="60" align="center" alt="Eusebio-GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg"  height="30" width="60" align="center" alt="Eusebio-Apache"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  height="30" width="60" align="center" alt="Eusebio-PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  height="30" width="60" align="center" alt="Eusebio-MySql"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"  height="30" width="40" align="center" alt="Eusebio-Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  height="30" width="40" align="center" alt="Eusebio-Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  height="30" width="40" align="center" alt="Eusebio-Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  height="30" width="40" align="center" alt="Eusebio-Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  height="30" width="40" align="center" alt="Eusebio-GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg"  height="30" width="40" align="center" alt="Eusebio-Apache"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  height="30" width="40" align="center" alt="Eusebio-PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  height="30" width="40" align="center" alt="Eusebio-MySql"/>
   
   
 </div>
   
-  ## Social Links
+  ## 🖇️ Social Links
   
   <div>
     <a href="https://instagram.com/eusimangooficial" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
