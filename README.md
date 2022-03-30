@@ -17,7 +17,7 @@
   <img align="center" alt="Eusebio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   <img align="center" alt="Eusebio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
   <img align="center" alt="Eusebio-Django" height="30" width="40" src"https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg"/>
-  <img align="center" alt="Eusebio-Linux" height="30" width="40" src"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+  <img align="center" alt="Eusebio-Linux"  src"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
   
 </div>
   
@@ -32,5 +32,5 @@
    <!-- ![Snake animation](https://github.com/Eu23b10/Eu23b10/blob/output/github-contribution-grid-snake.svg) -->
   </div>
     <a href="https://www.codewars.com/users/EusebioSimango" target"_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg"/>
+    <img src="https://www.codewars.com/users/EusebioSimango/badges/small/"/>
   </a>
