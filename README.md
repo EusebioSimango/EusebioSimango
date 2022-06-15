@@ -47,5 +47,4 @@
     <img src="https://www.codewars.com/users/EusebioSimango/badges/large/"/>
   </a>
 
-
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=simango_eusebio)](https://github.com/gazf/github-readme-twitter)
+<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=simango_eusebio&layout=wide&show_reply=off&show_retweet=on" alt="Eusebio's Twitter Account"/>
