@@ -46,3 +46,6 @@
     <a href="https://www.codewars.com/users/EusebioSimango" target"_blank">
     <img src="https://www.codewars.com/users/EusebioSimango/badges/large/"/>
   </a>
+
+
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=simango_eusebio)](https://github.com/gazf/github-readme-twitter)
