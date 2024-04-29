@@ -35,9 +35,9 @@
   ## 🖇️ Social Links
   
   <div>
-    <a href="https://instagram.com/eusimangooficial" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://instagram.com/eusebio.py" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:eusebiosimango14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://https://www.linkedin.com/in/eus%C3%A9bio-simango-36b994233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://https://www.linkedin.com/in/eusebiosimango/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/eusebio.simango.1/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   
   
@@ -47,4 +47,4 @@
     <img src="https://www.codewars.com/users/EusebioSimango/badges/large/"/>
   </a>
 
-<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=simango_eusebio&layout=wide&show_reply=off&show_retweet=on" alt="Eusebio's Twitter Account"/>
+<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=eusebiodotpy&layout=wide&show_reply=off&show_retweet=on" alt="Eusebio's Twitter Account"/>
